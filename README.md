@@ -10,7 +10,7 @@ Repositório para armazenar código dos desesafios da DIO
 Classificador de nível de Herói
 [link do código](./index.js)
 
-#💻 desafio de código 1
+###💻 desafio de código 1
 [link do código](./codigosTeste.js)
 
 ## 🔍 Referências
