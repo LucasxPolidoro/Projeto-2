@@ -6,9 +6,12 @@ Repositório para armazenar código dos desesafios da DIO
 ---
 
 <a id="desafio1"></a>
-## 🛠 Desafio 1 
+## 🛠 projeto 1 
 Classificador de nível de Herói
 [link do código](./index.js)
+
+##💻 desafio de código 1
+[link do código](./codigosTeste.js)
 
 ## 🔍 Referências
 
