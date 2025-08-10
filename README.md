@@ -11,7 +11,7 @@ Classificador de nível de Herói
 [link do código](./index.js)
 
 Simulação de controle de estoque simples
-[link do código](./https://github.com/LucasxPolidoro/Desafio-de-codigo-1/blob/main/codigosTeste.js)
+[link do código](https://github.com/LucasxPolidoro/Desafio-de-codigo-1)
 
 ## 🔍 Referências
 
